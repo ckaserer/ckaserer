@@ -52,17 +52,6 @@ As one of the people responsible at Avanade for the **GitHub Copilot rollout** (
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F6FEB?style=flat-square)
 
-## Stats
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ckaserer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaserer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
-</p>
-
 ## Find me elsewhere
 
 - 🌐 **Website & full CV** → [ckaserer.dev](https://ckaserer.dev)
