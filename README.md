@@ -18,6 +18,7 @@ As one of the people responsible at Avanade for the **GitHub Copilot rollout** (
 - 🤖 Driving **GitHub Copilot** compliance, licensing and enablement across the org
 - ☁️ Building **Azure Landing Zones** (CAF + Sovereign) for enterprise and regulated workloads
 - ⚡ Shipping projects with **Claude Code** and spec-driven development — measurably faster, still production-safe
+- 🏠 Running a self-hosted homelab (Proxmox, Ansible, ADR-documented) — private repo, happy to walk through it on request
 
 ## How I work with AI
 
