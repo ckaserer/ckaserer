@@ -2,7 +2,7 @@
 
 **Manager · Cloud Engineering @ [Avanade](https://www.avanade.com)** — Azure platforms + AI-augmented delivery, based in Vienna 🇦🇹
 
-> AI-augmented Azure delivery — Landing Zones, AKS/OpenShift, GitHub Copilot rollout. Latest project shipped at **~3.2× the speed** of a traditional engagement.
+> AI-augmented Azure delivery — Landing Zones, AKS/OpenShift, GitHub Copilot rollout. Latest project shipped **up to 3× faster** than a traditional engagement.
 
 ---
 
